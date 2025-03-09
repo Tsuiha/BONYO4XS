@@ -1,0 +1,3 @@
+#pragma once
+#define SPLIT_USB_TIMEOUT 5000
+#define SPLIT_USB_TIMEOUT_POLL 25
